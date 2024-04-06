@@ -11,7 +11,7 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("Projeto_Web-Lh_Pets_Alunos")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9af1a6ffdfbaba181ea1c5eae261a33dd8f5eef4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Projeto_Web-Lh_Pets_Alunos")]
